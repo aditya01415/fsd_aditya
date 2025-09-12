@@ -5,3 +5,11 @@
     background-color: rgb(181, 75, 75);
     color: white;
 }
+.div {
+   margin: 24px;
+    padding: 36px 24px 40px 24px;
+    border-radius: 7px;
+   background-color: #fff;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15),
+        0 2px 3px 0 rgba(0,0,0,.1);
+}
