@@ -1,0 +1,32 @@
+body {
+      background-color: white;  
+      font-family: Arial, sans-serif;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: center;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 10px;
+    }
+    th {
+      background-color: #dc9153; 
+      color: black;
+      font-weight: bold;
+    }
+    td {
+      background-color: #c29982; 
+    }
+    .sidebar {
+      width: 150px;
+      text-align: left;
+      background-color: #ebe6e6;
+      font-weight: bold;
+    }
+    .content {
+      background-color: #f4eded;
+      text-align: center;
+      font-size: 18px;
+    }
