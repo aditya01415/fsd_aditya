@@ -1,0 +1,33 @@
+.div {
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 100px;
+    width:100vh;
+    margin: 20px;
+    padding: 20px;
+    background-color: aqua;
+    
+    
+    
+    /* transition: 0.3s; */
+
+    
+
+}
+/* .div:hover {
+
+background-color: green;
+cursor: pointer;
+transform: scale(1.1);
+transform: rotate(360deg);
+
+
+} */
+.div1 {
+    border: 2px solid black;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(120, 198, 120);
+
+    
+}
