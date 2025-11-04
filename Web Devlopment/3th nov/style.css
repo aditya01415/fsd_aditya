@@ -7,6 +7,8 @@
     position: relative;
     animation-iteration-count: infinite;
     animation-delay: 2s;
+    animation-direction: alternate;
+    animation-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
 @keyframes example {
