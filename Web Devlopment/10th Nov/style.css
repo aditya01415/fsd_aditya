@@ -1,0 +1,23 @@
+:root {
+    --color:#b01eff;
+    --bg:#5e548e;
+    --color2:#ff6f91;
+}
+
+body {
+    background-color:var(--bg);
+}
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: var(--color);
+    
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: var(--color2);
+   
+}
